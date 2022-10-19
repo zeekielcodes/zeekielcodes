@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ----------------------
 
-I recently found passion for frontend web development, I always look for opportunities to learn, network and share ideas.
+I am a passionate and creative frontend web developer, I always look for opportunities to learn, network and share ideas.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [thefacecodes](http://thefacecodes.web.app)
