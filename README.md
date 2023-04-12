@@ -10,7 +10,7 @@ I am a passionate and creative frontend web developer, I always look for opportu
 *   🖥️  See my portfolio at [thefacecodes](http://thefacecodes.web.app)
 *   ✉️  You can contact me at [ezekielabolade@gmail.com](mailto:ezekielabolade@gmail.com)
 *   🚀  I'm currently working on [Audiophille](http://audiophille-theface.netlify.app)
-*   🧠  I'm learning React JS
+*   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/thefacecodes" target="_blank" rel="noreferrer"><img
