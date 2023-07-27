@@ -7,16 +7,16 @@ Frontend Web Developer
 I am a passionate and creative frontend web developer, I always look for opportunities to learn, network and share ideas.
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🖥️  See my portfolio at [thefacecodes](http://thefacecodes.web.app)
+*   🖥️  See my portfolio at [zeekcodes](http://zeekcodes.web.app)
 *   ✉️  You can contact me at [ezekielabolade@gmail.com](mailto:ezekielabolade@gmail.com)
-*   🚀  I'm currently working on [Audiophille](http://audiophille-theface.netlify.app)
+*   🚀  I'm currently working on [TF Books](https://tfbooks.web.app)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/thefacecodes" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/zeekcodes" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/thefacecodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/thefacecodes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/thefacecodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                /></a><a href="https://www.github.com/zeekielcodes" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/zeekielcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
   ### Skills 
 <p align="left">
@@ -39,19 +39,19 @@ I am a passionate and creative frontend web developer, I always look for opportu
                           
 <a href="https://www.dev.to/iamtheface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/zeekielcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://thefacecodes.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/heistheface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/zeekcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ezekiel-abolade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>                        
 <a href="https://www.stackoverflow.com/users/19423618/ezekiel-abolade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/zeekcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thefacecodes"><img src="https://github-readme-stats.vercel.app/api?username=thefacecodes&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thefacecodes's GitHub stats" /></a>
-<a href="http://www.github.com/thefacecodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thefacecodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/thefacecodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefacecodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-stats.vercel.app/api?username=thefacecodes&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thefacecodes's GitHub stats" /></a>
+<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thefacecodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/zeekielcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefacecodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
