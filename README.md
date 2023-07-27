@@ -14,7 +14,7 @@ I am a passionate and creative frontend web developer, I always look for opportu
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/zeekcodes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/thefacecodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/twitter/follow/zeekcodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/zeekielcodes" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zeekielcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
@@ -52,6 +52,6 @@ I am a passionate and creative frontend web developer, I always look for opportu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-stats.vercel.app/api?username=thefacecodes&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thefacecodes's GitHub stats" /></a>
-<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thefacecodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/zeekielcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefacecodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-stats.vercel.app/api?username=zeekielcodes&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zeekielcodes's GitHub stats" /></a>
+<a href="http://www.github.com/zeekielcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeekielcodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/zeekielcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeekielcodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
