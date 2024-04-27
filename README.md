@@ -7,10 +7,10 @@ Frontend Web Developer
 I am a passionate and creative frontend web developer, I always look for opportunities to learn, network and share ideas.
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🖥️  See my portfolio at [zeekcodes](http://zeekcodes.web.app)
-*   ✉️  You can contact me at [ezekielabolade@gmail.com](mailto:ezekielabolade@gmail.com)
-*   🚀  I'm currently working on [TF Books](https://tfbooks.web.app)
-*   🧠  I'm learning Flutter
+*   🖥️  See my portfolio at [zeekcodes](http://zeekcodes.com)
+*   ✉️  You can contact me at [hello@zeekcodes.com](mailto:hello@zeekcodes.com)
+*   🚀  I'm currently working on [JustRead](https://justread.vercel.app)
+*   🧠  I'm learning Node.js
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/zeekcodes" target="_blank" rel="noreferrer"><img
@@ -40,7 +40,7 @@ I am a passionate and creative frontend web developer, I always look for opportu
 <a href="https://www.dev.to/iamtheface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/zeekielcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://thefacecodes.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="https://zeekcodes.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/zeekcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ezekiel-abolade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@thefacecodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>                        
